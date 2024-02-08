@@ -23,7 +23,7 @@
                 this.el.setAttribute("visible", false)
                 this.el.sceneEl.addEventListener('zappar-visible', () => this.el.setAttribute("visible", true));
             }
-        });
+        });    
     </script>
 </head>
 <body>
@@ -49,8 +49,7 @@
         <a-entity zappar-image="target: assets/BusinessCard.zpt">
             <!-- Have a group that will only become visible when the target image comes into view-->
             <a-entity visibility-changer>
-                <a-video id="bigBuckBunny" src="#bigBuckBunnyVideo" scale="1.35 1 1"  position="0 0.5 0"  ></a-video>  
-
+                <a-video id="bigBuckBunny" src="#bigBuckBunnyVideo" scale="3 2 2"  position="0 0 0"></a-video>
             </a-entity>
             <!-- END VISIBILITY CHANGER -->
         </a-entity>
@@ -69,4 +68,3 @@
 </body>
 
 </html>
-
