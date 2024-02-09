@@ -7,9 +7,5 @@ La carte de visite, traditionnellement utilisée comme un outil statique pour pa
 ## Ma carte de visite
 ![alt text](/assets/Cartedevisite.png "Carte de visite")
 
+[Lien vers mon site GitHub](https://viale8.github.io/aframe/ "Mon site GitHub").
 
-## Qr-Code pour accéder à mon site
-![alt text](/assets/monqr-code.png "Mon site GitHub")
-
-
-contenant une brève explication de votre projet, le Qr-Code permettant d'accéder et votre carte de visite
