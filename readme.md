@@ -7,5 +7,5 @@ La carte de visite, traditionnellement utilisée comme un outil statique pour pa
 ## Ma carte de visite
 ![alt text](/assets/Cartedevisite.png "Carte de visite")
 
-[Lien vers mon site GitHub](https://viale8.github.io/aframe/ "Mon site GitHub").
+[Lien vers mon site GitHub](https://viale8.github.io/aframe/ "Mon site GitHub")
 
