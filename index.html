@@ -25,24 +25,6 @@
             }
         });   
 
-         AFRAME.registerComponent('play', {
-             init: function () {
-             this.el.addEventListener('click', () => {
-             bigBuckBunnyVideo.muted = false;
-             bigBuckBunnyVideo.play();
-             });
-             },
-         });
-
-        // Register our pause component
-        // This component will pause the video when an entity holding it is clicked
-        AFRAME.registerComponent('pause', {
-             init: function () {
-                 this.el.addEventListener('click', () => {
-                     bigBuckBunnyVideo.pause();
-                 });
-             },
-         });
     </script>
 </head>
 <body>
